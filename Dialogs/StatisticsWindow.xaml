@@ -1,0 +1,73 @@
+﻿<Window x:Class="Lab10.Dialogs.StatisticsWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lab10.Dialogs"
+        mc:Ignorable="d"
+        Title="StatisticsWindow" Height="350" Width="500">
+  
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="1.5*"/>
+            <RowDefinition Height="4*"/>
+            <RowDefinition />
+
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="30" Grid.ColumnSpan="2" >Статисика за год</TextBlock>
+        <TextBlock Grid.Row="1" FontSize="17">Введите год в формате ####</TextBlock>
+        <Grid  Grid.Row="1" Grid.Column="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+        <TextBox x:Name="textBoxYear" Height="50"  />
+
+
+
+            <StackPanel Grid.Column="1">
+
+            <Button  Click="Accept_Click" MinWidth="60" Margin="5">OK</Button>
+                <Button  Click="Сansel_Click" MinWidth="60" Margin="5">Отмена</Button>
+
+            </StackPanel>
+
+
+        </Grid>
+        <TextBlock HorizontalAlignment="Center" Grid.Row="3" VerticalAlignment="Center" FontSize="20"  >Общая сумма</TextBlock>
+        <TextBlock x:Name="textBlockTotal" HorizontalAlignment="Center" FontSize="20" Grid.Row="3" Grid.Column="1"  />
+        <ListBox x:Name="listBoxStatistics" Margin="10" Grid.Row="2" Grid.ColumnSpan="2" ItemsSource="{Binding }">
+                
+                   
+
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <Grid Margin="10">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="auto"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                       
+                        <StackPanel Grid.Column="1" >
+                            <TextBlock Text="{Binding Path= RoomNumber}" Margin="30,0,0,0"/>
+                            <TextBlock Text="{Binding Path=TotalSum,
+                                    StringFormat={} Сумма за год {0} руб}"
+                                     Margin="30,0,0,0"/>
+                            
+
+
+                        </StackPanel>
+                    </Grid>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+        
+        
+        
+    </Grid>
+</Window>

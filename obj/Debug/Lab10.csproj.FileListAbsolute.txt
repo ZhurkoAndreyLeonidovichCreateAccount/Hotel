@@ -1,0 +1,125 @@
+D:\VisualStudio2019\APF\LAB\LAB10\Lab10\Lab10\obj\Debug\Lab10.csproj.AssemblyReference.cache
+D:\VisualStudio2019\APF\LAB\LAB10\Lab10\Lab10\obj\Debug\MainWindow.g.cs
+D:\VisualStudio2019\APF\LAB\LAB10\Lab10\Lab10\obj\Debug\App.g.cs
+D:\VisualStudio2019\APF\LAB\LAB10\Lab10\Lab10\obj\Debug\Lab10_MarkupCompile.cache
+D:\VisualStudio2019\APF\LAB\LAB10\Lab10\Lab10\obj\Debug\Lab10_MarkupCompile.lref
+D:\VisualStudio2019\APF\LAB\LAB10\Lab10\Lab10\bin\Debug\Lab10.exe.config
+D:\VisualStudio2019\APF\LAB\LAB10\Lab10\Lab10\bin\Debug\Lab10.exe
+D:\VisualStudio2019\APF\LAB\LAB10\Lab10\Lab10\bin\Debug\Lab10.pdb
+D:\VisualStudio2019\APF\LAB\LAB10\Lab10\Lab10\bin\Debug\EntityFramework.dll
+D:\VisualStudio2019\APF\LAB\LAB10\Lab10\Lab10\bin\Debug\EntityFramework.SqlServer.dll
+D:\VisualStudio2019\APF\LAB\LAB10\Lab10\Lab10\bin\Debug\Lab10.BusinessLayer.dll
+D:\VisualStudio2019\APF\LAB\LAB10\Lab10\Lab10\bin\Debug\Lab10.DataLayer.dll
+D:\VisualStudio2019\APF\LAB\LAB10\Lab10\Lab10\bin\Debug\AutoMapper.dll
+D:\VisualStudio2019\APF\LAB\LAB10\Lab10\Lab10\bin\Debug\Lab10.BusinessLayer.pdb
+D:\VisualStudio2019\APF\LAB\LAB10\Lab10\Lab10\bin\Debug\EntityFramework.xml
+D:\VisualStudio2019\APF\LAB\LAB10\Lab10\Lab10\bin\Debug\EntityFramework.SqlServer.xml
+D:\VisualStudio2019\APF\LAB\LAB10\Lab10\Lab10\bin\Debug\Lab10.DataLayer.pdb
+D:\VisualStudio2019\APF\LAB\LAB10\Lab10\Lab10\bin\Debug\Lab10.DataLayer.dll.config
+D:\VisualStudio2019\APF\LAB\LAB10\Lab10\Lab10\bin\Debug\AutoMapper.xml
+D:\VisualStudio2019\APF\LAB\LAB10\Lab10\Lab10\obj\Debug\MainWindow.baml
+D:\VisualStudio2019\APF\LAB\LAB10\Lab10\Lab10\obj\Debug\Lab10.g.resources
+D:\VisualStudio2019\APF\LAB\LAB10\Lab10\Lab10\obj\Debug\Lab10.Properties.Resources.resources
+D:\VisualStudio2019\APF\LAB\LAB10\Lab10\Lab10\obj\Debug\Lab10.csproj.GenerateResource.cache
+D:\VisualStudio2019\APF\LAB\LAB10\Lab10\Lab10\obj\Debug\Lab10.csproj.CoreCompileInputs.cache
+D:\VisualStudio2019\APF\LAB\LAB10\Lab10\Lab10\obj\Debug\Lab10.csproj.CopyComplete
+D:\VisualStudio2019\APF\LAB\LAB10\Lab10\Lab10\obj\Debug\Lab10.exe
+D:\VisualStudio2019\APF\LAB\LAB10\Lab10\Lab10\obj\Debug\Lab10.pdb
+D:\VisualStudio2019\APF\LAB\LAB10\Lab10\Lab10\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\VisualStudio2019\APF\LAB\LAB10\Lab10\Lab10\obj\Debug\Dialogs\EditClient.g.cs
+D:\VisualStudio2019\APF\LAB\LAB10\Lab10\Lab10\obj\Debug\Dialogs\EditClient.baml
+D:\VisualStudio2019\APF\LAB\LAB10\Lab10\Lab10\obj\Debug\Dialogs\EditRoom.g.cs
+D:\VisualStudio2019\APF\LAB\LAB10\Lab10\Lab10\obj\Debug\Dialogs\EditRoom.baml
+D:\VisualStudio2019\APF\LAB\LAB10\Lab10\Lab10\obj\Debug\Dialogs\PasswordWindow.g.cs
+D:\VisualStudio2019\APF\LAB\LAB10\Lab10\Lab10\obj\Debug\Dialogs\PasswordWindow.baml
+D:\VisualStudio2019\APF\LAB\LAB10\Lab10\Lab10\obj\Debug\Dialogs\SearchRoom.g.cs
+D:\VisualStudio2019\APF\LAB\LAB10\Lab10\Lab10\obj\Debug\Dialogs\SearchRoom.baml
+D:\VisualStudio2019\APF\LAB\LAB10\Lab10\Lab10\obj\Debug\Dialogs\SearchClient.g.cs
+D:\VisualStudio2019\APF\LAB\LAB10\Lab10\Lab10\obj\Debug\Dialogs\SearchClient.baml
+D:\VisualStudio2019\APF\LAB\LAB10\Lab10\Lab10\bin\Debug\Lab10.BusinessLayer.dll.config
+D:\VisualStudio2019\APF\LAB\LAB10\Lab10\Lab10\obj\Debug\Dialogs\StatisticsWindow.g.cs
+D:\VisualStudio2019\APF\LAB\LAB10\Lab10\Lab10\obj\Debug\Dialogs\StatisticsWindow.baml
+D:\учеба\проекты WPF\VisualStudio2019\APF\LAB\LAB10\Lab10\Lab10\bin\Debug\Lab10.exe.config
+D:\учеба\проекты WPF\VisualStudio2019\APF\LAB\LAB10\Lab10\Lab10\bin\Debug\Lab10.exe
+D:\учеба\проекты WPF\VisualStudio2019\APF\LAB\LAB10\Lab10\Lab10\bin\Debug\Lab10.pdb
+D:\учеба\проекты WPF\VisualStudio2019\APF\LAB\LAB10\Lab10\Lab10\bin\Debug\EntityFramework.dll
+D:\учеба\проекты WPF\VisualStudio2019\APF\LAB\LAB10\Lab10\Lab10\bin\Debug\EntityFramework.SqlServer.dll
+D:\учеба\проекты WPF\VisualStudio2019\APF\LAB\LAB10\Lab10\Lab10\bin\Debug\Lab10.BusinessLayer.dll
+D:\учеба\проекты WPF\VisualStudio2019\APF\LAB\LAB10\Lab10\Lab10\bin\Debug\Lab10.DataLayer.dll
+D:\учеба\проекты WPF\VisualStudio2019\APF\LAB\LAB10\Lab10\Lab10\bin\Debug\AutoMapper.dll
+D:\учеба\проекты WPF\VisualStudio2019\APF\LAB\LAB10\Lab10\Lab10\bin\Debug\Lab10.BusinessLayer.pdb
+D:\учеба\проекты WPF\VisualStudio2019\APF\LAB\LAB10\Lab10\Lab10\bin\Debug\Lab10.BusinessLayer.dll.config
+D:\учеба\проекты WPF\VisualStudio2019\APF\LAB\LAB10\Lab10\Lab10\bin\Debug\EntityFramework.xml
+D:\учеба\проекты WPF\VisualStudio2019\APF\LAB\LAB10\Lab10\Lab10\bin\Debug\EntityFramework.SqlServer.xml
+D:\учеба\проекты WPF\VisualStudio2019\APF\LAB\LAB10\Lab10\Lab10\bin\Debug\Lab10.DataLayer.pdb
+D:\учеба\проекты WPF\VisualStudio2019\APF\LAB\LAB10\Lab10\Lab10\bin\Debug\Lab10.DataLayer.dll.config
+D:\учеба\проекты WPF\VisualStudio2019\APF\LAB\LAB10\Lab10\Lab10\bin\Debug\AutoMapper.xml
+D:\учеба\проекты WPF\VisualStudio2019\APF\LAB\LAB10\Lab10\Lab10\obj\Debug\Lab10.csproj.AssemblyReference.cache
+D:\учеба\проекты WPF\VisualStudio2019\APF\LAB\LAB10\Lab10\Lab10\obj\Debug\Dialogs\EditRoom.g.cs
+D:\учеба\проекты WPF\VisualStudio2019\APF\LAB\LAB10\Lab10\Lab10\obj\Debug\Dialogs\EditClient.g.cs
+D:\учеба\проекты WPF\VisualStudio2019\APF\LAB\LAB10\Lab10\Lab10\obj\Debug\Dialogs\PasswordWindow.g.cs
+D:\учеба\проекты WPF\VisualStudio2019\APF\LAB\LAB10\Lab10\Lab10\obj\Debug\Dialogs\SearchClient.g.cs
+D:\учеба\проекты WPF\VisualStudio2019\APF\LAB\LAB10\Lab10\Lab10\obj\Debug\Dialogs\SearchRoom.g.cs
+D:\учеба\проекты WPF\VisualStudio2019\APF\LAB\LAB10\Lab10\Lab10\obj\Debug\Dialogs\StatisticsWindow.g.cs
+D:\учеба\проекты WPF\VisualStudio2019\APF\LAB\LAB10\Lab10\Lab10\obj\Debug\MainWindow.g.cs
+D:\учеба\проекты WPF\VisualStudio2019\APF\LAB\LAB10\Lab10\Lab10\obj\Debug\App.g.cs
+D:\учеба\проекты WPF\VisualStudio2019\APF\LAB\LAB10\Lab10\Lab10\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\учеба\проекты WPF\VisualStudio2019\APF\LAB\LAB10\Lab10\Lab10\obj\Debug\Lab10_MarkupCompile.cache
+D:\учеба\проекты WPF\VisualStudio2019\APF\LAB\LAB10\Lab10\Lab10\obj\Debug\Lab10_MarkupCompile.lref
+D:\учеба\проекты WPF\VisualStudio2019\APF\LAB\LAB10\Lab10\Lab10\obj\Debug\Dialogs\EditRoom.baml
+D:\учеба\проекты WPF\VisualStudio2019\APF\LAB\LAB10\Lab10\Lab10\obj\Debug\Dialogs\EditClient.baml
+D:\учеба\проекты WPF\VisualStudio2019\APF\LAB\LAB10\Lab10\Lab10\obj\Debug\Dialogs\PasswordWindow.baml
+D:\учеба\проекты WPF\VisualStudio2019\APF\LAB\LAB10\Lab10\Lab10\obj\Debug\Dialogs\SearchClient.baml
+D:\учеба\проекты WPF\VisualStudio2019\APF\LAB\LAB10\Lab10\Lab10\obj\Debug\Dialogs\SearchRoom.baml
+D:\учеба\проекты WPF\VisualStudio2019\APF\LAB\LAB10\Lab10\Lab10\obj\Debug\Dialogs\StatisticsWindow.baml
+D:\учеба\проекты WPF\VisualStudio2019\APF\LAB\LAB10\Lab10\Lab10\obj\Debug\MainWindow.baml
+D:\учеба\проекты WPF\VisualStudio2019\APF\LAB\LAB10\Lab10\Lab10\obj\Debug\Lab10.g.resources
+D:\учеба\проекты WPF\VisualStudio2019\APF\LAB\LAB10\Lab10\Lab10\obj\Debug\Lab10.Properties.Resources.resources
+D:\учеба\проекты WPF\VisualStudio2019\APF\LAB\LAB10\Lab10\Lab10\obj\Debug\Lab10.csproj.GenerateResource.cache
+D:\учеба\проекты WPF\VisualStudio2019\APF\LAB\LAB10\Lab10\Lab10\obj\Debug\Lab10.csproj.CoreCompileInputs.cache
+D:\учеба\проекты WPF\VisualStudio2019\APF\LAB\LAB10\Lab10\Lab10\obj\Debug\Lab10.csproj.CopyComplete
+D:\учеба\проекты WPF\VisualStudio2019\APF\LAB\LAB10\Lab10\Lab10\obj\Debug\Lab10.exe
+D:\учеба\проекты WPF\VisualStudio2019\APF\LAB\LAB10\Lab10\Lab10\obj\Debug\Lab10.pdb
+C:\Users\Boss\Desktop\LAB10\Lab10\Lab10\bin\Debug\Lab10.exe.config
+C:\Users\Boss\Desktop\LAB10\Lab10\Lab10\bin\Debug\Lab10.exe
+C:\Users\Boss\Desktop\LAB10\Lab10\Lab10\bin\Debug\Lab10.pdb
+C:\Users\Boss\Desktop\LAB10\Lab10\Lab10\bin\Debug\EntityFramework.dll
+C:\Users\Boss\Desktop\LAB10\Lab10\Lab10\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Boss\Desktop\LAB10\Lab10\Lab10\bin\Debug\Lab10.BusinessLayer.dll
+C:\Users\Boss\Desktop\LAB10\Lab10\Lab10\bin\Debug\Lab10.DataLayer.dll
+C:\Users\Boss\Desktop\LAB10\Lab10\Lab10\bin\Debug\AutoMapper.dll
+C:\Users\Boss\Desktop\LAB10\Lab10\Lab10\bin\Debug\Lab10.BusinessLayer.pdb
+C:\Users\Boss\Desktop\LAB10\Lab10\Lab10\bin\Debug\Lab10.BusinessLayer.dll.config
+C:\Users\Boss\Desktop\LAB10\Lab10\Lab10\bin\Debug\EntityFramework.xml
+C:\Users\Boss\Desktop\LAB10\Lab10\Lab10\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Boss\Desktop\LAB10\Lab10\Lab10\bin\Debug\Lab10.DataLayer.pdb
+C:\Users\Boss\Desktop\LAB10\Lab10\Lab10\bin\Debug\Lab10.DataLayer.dll.config
+C:\Users\Boss\Desktop\LAB10\Lab10\Lab10\bin\Debug\AutoMapper.xml
+C:\Users\Boss\Desktop\LAB10\Lab10\Lab10\obj\Debug\Lab10.csproj.AssemblyReference.cache
+C:\Users\Boss\Desktop\LAB10\Lab10\Lab10\obj\Debug\Dialogs\EditRoom.g.cs
+C:\Users\Boss\Desktop\LAB10\Lab10\Lab10\obj\Debug\Dialogs\EditClient.g.cs
+C:\Users\Boss\Desktop\LAB10\Lab10\Lab10\obj\Debug\Dialogs\PasswordWindow.g.cs
+C:\Users\Boss\Desktop\LAB10\Lab10\Lab10\obj\Debug\Dialogs\SearchClient.g.cs
+C:\Users\Boss\Desktop\LAB10\Lab10\Lab10\obj\Debug\Dialogs\SearchRoom.g.cs
+C:\Users\Boss\Desktop\LAB10\Lab10\Lab10\obj\Debug\Dialogs\StatisticsWindow.g.cs
+C:\Users\Boss\Desktop\LAB10\Lab10\Lab10\obj\Debug\MainWindow.g.cs
+C:\Users\Boss\Desktop\LAB10\Lab10\Lab10\obj\Debug\App.g.cs
+C:\Users\Boss\Desktop\LAB10\Lab10\Lab10\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Boss\Desktop\LAB10\Lab10\Lab10\obj\Debug\Lab10_MarkupCompile.cache
+C:\Users\Boss\Desktop\LAB10\Lab10\Lab10\obj\Debug\Lab10_MarkupCompile.lref
+C:\Users\Boss\Desktop\LAB10\Lab10\Lab10\obj\Debug\Dialogs\EditRoom.baml
+C:\Users\Boss\Desktop\LAB10\Lab10\Lab10\obj\Debug\Dialogs\EditClient.baml
+C:\Users\Boss\Desktop\LAB10\Lab10\Lab10\obj\Debug\Dialogs\PasswordWindow.baml
+C:\Users\Boss\Desktop\LAB10\Lab10\Lab10\obj\Debug\Dialogs\SearchClient.baml
+C:\Users\Boss\Desktop\LAB10\Lab10\Lab10\obj\Debug\Dialogs\SearchRoom.baml
+C:\Users\Boss\Desktop\LAB10\Lab10\Lab10\obj\Debug\Dialogs\StatisticsWindow.baml
+C:\Users\Boss\Desktop\LAB10\Lab10\Lab10\obj\Debug\MainWindow.baml
+C:\Users\Boss\Desktop\LAB10\Lab10\Lab10\obj\Debug\Lab10.g.resources
+C:\Users\Boss\Desktop\LAB10\Lab10\Lab10\obj\Debug\Lab10.Properties.Resources.resources
+C:\Users\Boss\Desktop\LAB10\Lab10\Lab10\obj\Debug\Lab10.csproj.GenerateResource.cache
+C:\Users\Boss\Desktop\LAB10\Lab10\Lab10\obj\Debug\Lab10.csproj.CoreCompileInputs.cache
+C:\Users\Boss\Desktop\LAB10\Lab10\Lab10\obj\Debug\Lab10.csproj.CopyComplete
+C:\Users\Boss\Desktop\LAB10\Lab10\Lab10\obj\Debug\Lab10.exe
+C:\Users\Boss\Desktop\LAB10\Lab10\Lab10\obj\Debug\Lab10.pdb
+C:\Users\Boss\Desktop\LAB10\Lab10\Lab10\obj\Debug\Infrastructure\Dictionary1.baml
+C:\Users\Boss\Desktop\LAB10\Lab10\Lab10\obj\Debug\App.baml
